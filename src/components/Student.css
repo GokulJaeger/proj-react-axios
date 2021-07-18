@@ -1,0 +1,68 @@
+h3{
+    text-align: center;
+    font-family: "Times New Roman", helvetica, arial, sans-serif;
+    font-size:15px;
+    font-weight: bold;
+    text-transform: lowercase;
+    -webkit-font-smoothing: antialiased;
+    color: red;
+    padding: 10px 0;
+}
+
+h5{
+    text-align: center;
+    font-family: "Times New Roman", helvetica, arial, sans-serif;
+    font-size:15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    -webkit-font-smoothing: antialiased;
+    color:black;
+    padding: 10px 0;
+}
+
+.table-wrapper{
+    margin: 10px 70px 70px;
+    box-shadow: 0px 35px 50px rgba(216, 181, 23, 0.2);
+}
+
+.fl-table {
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight:bold;
+    border: none;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    white-space: nowrap;
+    background-color: white;
+}
+
+.fl-table td, .fl-table th {
+    text-align: center;
+    padding: 8px;
+}
+
+.fl-table td {
+    border-right: 1px solid rgba(11, 173, 46, 0.507);
+    font-size: 12px;
+}
+
+.fl-table thead th {
+    color: #ffffff;
+    background:rgb(11, 173, 124)
+}
+
+
+.fl-table thead th:nth-child(odd) {
+    color: #ffffff;
+    background:rgb(11, 173, 124)
+}
+
+.fl-table tr:nth-child(even) {
+    background: #F8F8F8;
+}
+
+.card-container {
+    contain: layout inline-size;
+    width: 100%;
+  }

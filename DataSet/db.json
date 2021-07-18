@@ -1,0 +1,93 @@
+{
+  "city": [
+    {
+      "id": 1,
+      "name": "Chennai"
+    },
+    {
+      "id": 2,
+      "name": "Banglore"
+    },
+    {
+      "id": 3,
+      "name": "Coimbatore"
+    },
+    {
+      "id": 4,
+      "name": "Vellore"
+    },
+    {
+      "id": 5,
+      "name": "Madurai"
+    },
+    {
+      "id": 6,
+      "name": "Trichy"
+    },
+    {
+      "id": 7,
+      "name": "Selam"
+    },
+    {
+      "id": 8,
+      "name": "Krishnagiri"
+    }
+  ],
+  "studs": [
+    {
+      "firstname": "Gokul",
+      "lastname": "R",
+      "age": "24",
+      "email": "gokuljaeger@gmail.com",
+      "phonenumber": "9384757730",
+      "city": "4",
+      "college": "SRM",
+      "department": "MCA",
+      "id": 1
+    },
+    {
+      "firstname": "Natsu",
+      "lastname": "Dragneel",
+      "age": "25",
+      "email": "natsu@gmail.com",
+      "phonenumber": "6876263824",
+      "city": "7",
+      "college": "VIT",
+      "department": "BTECH",
+      "id": 2
+    },
+    {
+      "firstname": "Eren",
+      "lastname": "Jaeger",
+      "age": "27",
+      "email": "eren@gmail.com",
+      "phonenumber": "8426236284",
+      "city": "4",
+      "college": "SSN",
+      "department": "MCOM",
+      "id": 3
+    },
+    {
+      "firstname": "fxbxfgc",
+      "lastname": "xcnvhvb",
+      "age": "52",
+      "email": "salzavengers@gmail.com",
+      "phonenumber": "9867837",
+      "city": "4",
+      "college": "hiuh",
+      "department": "gyhu",
+      "id": 4
+    },
+    {
+      "firstname": "gokul",
+      "lastname": "xcnvhvb",
+      "age": "87",
+      "email": "gokulr.natsu@gmail.com",
+      "phonenumber": "35487415427",
+      "city": "2",
+      "college": "xgfbcfhnu",
+      "department": "gfnyjf",
+      "id": 5
+    }
+  ]
+}
